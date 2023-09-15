@@ -3,18 +3,12 @@
         "nombre":"Pandas",
         "descripcion":"Hecho en Kaggle",
         "duracion":"5 días",
-        "imagen":"fake"
+        "imagen":"https://firebasestorage.googleapis.com/v0/b/pruebas-abcf6.appspot.com/o/JoseLGonzalesR%20-%20Pandas.png?alt=media&token=cd4d1b2b-d60b-4f33-ba8e-c8034ca865dc"
     },
     {
         "nombre":"Python",
         "descripcion":"Hecho en Kaggle",
         "duracion":"5 días",
-        "imagen":"fake"
-    },
-    {
-        "nombre":"Inglés",
-        "descripcion":"Centro de Idiomas, Universidad Veracruzana",
-        "duracion":"2 años",
-        "imagen":"fake"
+        "imagen":"https://firebasestorage.googleapis.com/v0/b/pruebas-abcf6.appspot.com/o/JoseLGonzalesR%20-%20Python.png?alt=media&token=4e331dc1-c8ff-405c-afec-4cff0ee9f862"
     }
 ]

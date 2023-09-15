@@ -1,22 +1,22 @@
 [
     {
-        "skill":"fake",
-        "area":"a",
-        "nivel":"1"
+        "skill":"Angular",
+        "area":"Web",
+        "nivel":"70"
     },
     {
-        "skill":"fake",
-        "area":"b",
-        "nivel":"1"
+        "skill":"MySql",
+        "area":"Base de Datos",
+        "nivel":"50"
     },
     {
-        "skill":"fake",
-        "area":"c",
-        "nivel":"2"
+        "skill":"Java",
+        "area":"Sistemas",
+        "nivel":"70"
     },
     {
-        "skill":"fake",
-        "area":"d",
-        "nivel":"3"
+        "skill":"React",
+        "area":"Web",
+        "nivel":"90"
     }
 ]
